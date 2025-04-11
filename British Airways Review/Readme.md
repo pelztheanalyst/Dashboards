@@ -8,7 +8,7 @@ View the Dashboard on Tableau Public: https://public.tableau.com/app/profile/pel
 
 **📌 Project Overview**
 
-This Tableau project analyzes customer reviews of British Airways from March 2016 to October 2023. The goal was to explore customer sentiment trends, evaluate performance metrics across different aircraft models, and identify strengths and areas for improvement in British Airways’ service delivery. . By visualizing key metrics and trends, the dashboard assists stakeholders in identifying areas of strength and those needing improvement.
+This Tableau project analyzes customer reviews of British Airways from March 2016 to October 2023. The goal was to explore customer sentiment trends, evaluate performance metrics across different aircraft models, and identify strengths and areas for improvement in British Airways’ service delivery. By visualizing key metrics and trends, the dashboard assists stakeholders in identifying areas of strength and those needing improvement.
 
 **Key Questions Explored**
 
