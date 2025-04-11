@@ -4,7 +4,7 @@ Welcome to my data visualization portfolio project! This dashboard explores cust
 
 **🔗 Live Dashboard:**
 
-View the Dashboard on Tableau Public
+View the Dashboard on Tableau Public: https://public.tableau.com/app/profile/pelumi.adebisi/viz/BritishAirwaysReview-PortfolioProject/Dashboard1?publish=yes
 
 **📌 Project Overview**
 
@@ -47,19 +47,19 @@ This dashboard provides actionable insights for airline customer service teams, 
 
 **🔍 Key Insights:**
 
-1. Overall Customer Experience is Generally Positive, But Inconsistent Over Time
+**1. Overall Customer Experience is Generally Positive, But Inconsistent Over Time**
 
 With an average overall rating of 4.2, customer sentiment toward British Airways is largely favorable. However, trends over time reveal noticeable fluctuations—particularly during the pandemic period—highlighting shifts in service consistency.
 
-2. Service Quality Varies by Category, With Entertainment and Food Falling Behind
+**2. Service Quality Varies by Category, With Entertainment and Food Falling Behind**
 
 While Cabin Staff Service (3.3) receives above-average feedback, Entertainment (1.4) and Food Beverages (2.4) are rated the lowest. These results suggest the need for targeted improvements in in-flight offerings.
 
-3. Aircraft Type Influences Customer Satisfaction
+**3. Aircraft Type Influences Customer Satisfaction**
 
 Aircraft such as the Boeing 747-400 and 787 score highest (up to 4.7), indicating a better passenger experience. In contrast, models like the A321 (3.6) have lower satisfaction scores, revealing a quality gap across aircraft types.
 
-4. Global Reach, High Review Volume for Key Aircraft Models
+**4. Global Reach, High Review Volume for Key Aircraft Models**
 
 Reviews span a wide range of countries, confirming British Airways’ global customer base. The A320 and Boeing 777 are the most frequently reviewed aircraft, suggesting they are core to the airline’s fleet operations and customer exposure.
 
